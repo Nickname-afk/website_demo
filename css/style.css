@@ -153,9 +153,9 @@ a:focus {
 
 .navbar-brand span {
   font-weight: bold;
-  font-size: 32px;
+  font-size: 60px;
   color: #fff;
-  text-shadow: 1px -0.5px 0 #cfb3a9, 1px 0.5px 0 #cfb3a9;
+  text-shadow: 1px -0.5px 0 #cfb3a9, 1px 2px 0 #cfb3a9;
 }
 
 .custom_nav-container {
